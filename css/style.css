@@ -1,0 +1,313 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.main-header{
+	background-color: white;
+	width: 100%;
+	height: 50px;
+	overflow: hidden;
+	box-sizing: border-box;
+	position: fixed;
+}
+.header-left{
+	
+	width: 50%;
+	height: 60px;
+	float: left;
+
+}
+.header-left a{
+	color: #000000;
+	padding: 16px 26px;
+	display: inline-block;
+	text-decoration: none;
+}
+.header-left span{
+	padding: 16px 30px;
+	letter-spacing: 5px;
+
+}
+.header-left span:hover{
+	background-color: #CCCCCC;
+}
+.header-right{
+	
+	width: 50%;
+	height: 50px;
+	float: left;
+}
+.header-right a{
+	float: right;
+	text-decoration: none;
+	padding: 14px 19px;
+	letter-spacing: 5px;
+	color: #5D6D7E;
+}
+.header-right a:hover{
+	background-color: #CCCCCC;
+}
+.body-area img{
+	width: 100%;
+}
+.body-area span{
+	position: relative;
+	top: 246px;
+	left: 388px;
+	color: white;
+	font-size: 35px;
+}
+.body-area span.br{
+	background-color: black;
+	color: white;
+	font-size: 35px;
+	position: relative;
+	top: 249px;
+	left: 372px;
+	padding: 14px;
+}
+.project-area{
+	
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+}
+.project-area h2{
+	padding: 60px 20px 20px 20px;
+	border-bottom: 1px solid #F2F4F4;
+}
+.summer-house{
+	
+	width: 25%;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+	position: relative;
+}
+.summer-house span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 38px;
+	left: 10px;
+}
+.summer-house span.sp{
+	padding: 10px;
+	background-color: black;
+	position: absolute;
+	top: 207px;
+	left: 11px;
+}
+.summer-house img{
+	width: 100%;
+	height: 50%;
+	padding: 10px;
+}
+.brick-house{
+	
+	width: 25%;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+}
+.brick-house span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 37px;
+	left: 10px;
+}
+.brick-house span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 365px;
+	left: 347px;
+}
+
+.brick-house img{
+	width: 100%;
+	height: 50%;
+	padding: 10px;	
+}
+.renovated{
+	
+	width: 25%;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+}
+.renovated span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 38px;
+	left: 10px;
+}
+.renovated span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 365px;
+	left: 685px;
+}
+.renovated img{
+	width: 100%;
+	height: 50%;
+	padding: 10px;	
+}
+.barn-house{
+	
+	width: 25%;
+	height: 350px;
+	float: left;
+	margin-top: 50px;
+}
+.barn-house span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 38px;
+	left: 10px;
+}
+.barn-house span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 365px;
+	left: 1022px;
+}
+.barn-house img{
+	width: 100%;
+	height: 50%;
+	padding: 10px;
+}
+.about{
+	
+	width: 100%;
+	height: 600px;
+	margin-top: 60px;
+	overflow: hidden;
+	box-sizing: border-box;
+	padding: 10px;
+	
+}
+.about.ab{
+	border: 1px solid red;
+	padding-bottom: 5px;
+}
+.john-doe{
+	
+	width: 25%;
+	height: 500px;
+	float: left;
+
+}
+.about img{
+	width: 100%;
+	padding: 10px;
+}
+.about h1{
+	padding: 10px;
+}
+.about h3{
+	padding: 10px;
+}
+.about p{
+	
+	padding: 15px;
+	
+}
+.about a{
+	background-color: #CCCCCC;
+	padding: 10px 90px;
+	margin: 5px;
+	text-decoration: none;
+	color: black;
+}
+.jane-doe{
+	
+	width: 25%;
+	height: 500px;
+	float: left;
+}
+.mike-ross{
+	
+	width: 25%;
+	height: 500px;
+	float: left;
+}
+.dan-star{
+	
+	width: 25%;
+	height: 500px;
+	float: left;
+}
+.contact{
+	
+	width: 100%;
+	height: 420px;
+	padding-top: 40px;
+}
+.contact h1{
+	padding: 10px;
+}
+.contact p{
+	padding: 10px;
+}
+.contact a{
+	background-color: black;
+	padding: 12px;
+	margin: 5px 10px;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+.contact input[type="text"]{
+	width: 96%;
+	height: 40px;
+	padding: 7px;
+	margin: 9px;
+	
+}
+.contact input[type="email"]{
+	width: 96%;
+	height: 40px;
+	padding: 7px;
+	margin: 9px;
+}
+.pic{
+	width: 100%;
+	height: auto;
+}
+.pic img{
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+.footer{
+	background-color: black;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	padding-top: 30px;
+}
+.footer span{
+	color: white;
+	padding: 5px;
+	
+}
+.footer a{
+	color: white;
+	
+}

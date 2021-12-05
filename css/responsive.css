@@ -1,0 +1,203 @@
+@media screen and (max-width: 500px) {
+	.main-header{
+	background-color: white;
+	width: 100%;
+	height: 50px;
+	overflow: hidden;
+	box-sizing: border-box;
+	position: fixed;
+}
+	.header-left{
+	background-color: white;
+	width: 100%;
+	height: 60px;
+	
+
+}
+.body-area span{
+	position: relative;
+	top: 246px;
+	left: 405px;
+	color: white;
+	font-size: 35px;
+}
+.body-area span.br{
+	background-color: black;
+	color: white;
+	font-size: 35px;
+	position: relative;
+	top: 146px;
+	left: 208px;
+	padding: 14px;
+}
+.project-area{
+	
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	position: relative;
+}
+.summer-house{
+	
+	width: 100%;
+	height: auto;
+	
+	margin-top: 15px;
+	position: relative;
+}
+.summer-house img{
+	width: 100%;
+	height: 50%;
+	padding: 15px 28px;
+}
+.summer-house span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 43px;
+	left: 28px;
+}
+.summer-house span.sp{
+	padding: 10px;
+	background-color: black;
+	position: absolute;
+	top: 351px;
+	left: 29px;
+}
+.brick-house{
+	
+	width: 100%;
+	height: auto;
+	
+	margin-top: 15px;
+}
+.brick-house img{
+	width: 100%;
+	height: 100%;
+	padding: 15px 28px;	
+}
+.brick-house span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 44px;
+	left: 28px;
+}
+.brick-house span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 1144px;
+	left: 29px;
+}
+.renovated{
+	
+	width: 100%;
+	height: auto;
+	
+	margin-top: 15px;
+}
+.renovated img{
+	width: 100%;
+	height: 100%;
+	padding: 15px 28px;	
+}
+.renovated span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 43px;
+	left: 29px;
+}
+.renovated span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 1813px;
+	left: 28px;
+}
+.barn-house{
+	
+	width: 100%;
+	height: auto;
+	
+	margin-top: 15px;
+}
+.barn-house img{
+	width: 100%;
+	height: 100%;
+	padding: 15px 28px;
+}
+.barn-house span{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: relative;
+	top: 43px;
+	left: 28px;
+}
+.barn-house span.sp{
+	padding: 10px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 2483px;
+	left: 28px;
+}
+.about{
+	
+	width: 100%;
+	height: auto;
+	margin-top: 60px;
+	overflow: hidden;
+	box-sizing: border-box;
+	padding: 10px 22px;
+	
+}
+.about a{
+	background-color: #CCCCCC;
+	padding: 10px 187px;
+	margin: 7px;
+	text-decoration: none;
+	color: black;
+}
+.john-doe{
+	
+	width: 100%;
+	height: 500px;
+	
+}
+.jane-doe{
+	
+	width: 100%;
+	height: 500px;
+}
+.mike-ross{
+	
+	width: 100%;
+	height: 500px;
+
+}
+.dan-star{
+	
+	width: 100%;
+	height: 500px;
+}
+.contact{
+	
+	width: 100%;
+	height: 420px;
+	padding: 40px 23px 0px 23px;
+}
+
+.pic img{
+	width: 100%;
+	height: auto;
+	padding: 20px 30px;
+}
+}
